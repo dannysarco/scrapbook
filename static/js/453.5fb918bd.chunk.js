@@ -1,0 +1,2 @@
+(this["webpackJsonp@my-scrapbook/local-client"]=this["webpackJsonp@my-scrapbook/local-client"]||[]).push([[453],{630:function(a,s){Prism.languages["t4-vb"]=Prism.languages["t4-templating"].createT4("vbnet")}}]);
+//# sourceMappingURL=453.5fb918bd.chunk.js.map

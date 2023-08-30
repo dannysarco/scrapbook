@@ -1,0 +1,2 @@
+(this["webpackJsonp@my-scrapbook/local-client"]=this["webpackJsonp@my-scrapbook/local-client"]||[]).push([[50],{227:function(n,a){Prism.languages.bnf={string:{pattern:/"[^\r\n"]*"|'[^\r\n']*'/},definition:{pattern:/<[^<>\r\n\t]+>(?=\s*::=)/,alias:["rule","keyword"],inside:{punctuation:/^<|>$/}},rule:{pattern:/<[^<>\r\n\t]+>/,inside:{punctuation:/^<|>$/}},operator:/::=|[|()[\]{}*+?]|\.{3}/},Prism.languages.rbnf=Prism.languages.bnf}}]);
+//# sourceMappingURL=50.44d6baa1.chunk.js.map

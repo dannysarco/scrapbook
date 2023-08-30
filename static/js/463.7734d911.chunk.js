@@ -1,0 +1,2 @@
+(this["webpackJsonp@my-scrapbook/local-client"]=this["webpackJsonp@my-scrapbook/local-client"]||[]).push([[463],{640:function(a,t){!function(a){var t=a.util.clone(a.languages.typescript);a.languages.tsx=a.languages.extend("jsx",t);var e=a.languages.tsx.tag;e.pattern=RegExp("(^|[^\\w$]|(?=</))(?:"+e.pattern.source+")",e.pattern.flags),e.lookbehind=!0}(Prism)}}]);
+//# sourceMappingURL=463.7734d911.chunk.js.map
